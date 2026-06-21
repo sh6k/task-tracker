@@ -1,7 +1,6 @@
 # Task Tracker CLI
 
-Project URL: [https://roadmap.sh/projects/task-tracker
-](https://roadmap.sh/projects/fitness-workout-tracker)
+Project URL: https://roadmap.sh/projects/fitness-workout-tracker 
 A CLI task manager built in C++ with no external dependencies.
 Tasks are stored in `tasks.json`.
 
